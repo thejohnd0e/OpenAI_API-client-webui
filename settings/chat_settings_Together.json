@@ -1,0 +1,1 @@
+{"api_key": "cf5b32c467fff702f94f8215774e30e26b39687b9e187a9934b149f19869942b", "base_url": "https://api.together.xyz/v1", "model": "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo", "system_prompt": "You are a helpful assistant.", "max_tokens": 1024, "temperature": 0.45, "top_p": 0.7, "presence_penalty": 0, "frequency_penalty": 0}
