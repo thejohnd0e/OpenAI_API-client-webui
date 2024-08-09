@@ -34,8 +34,15 @@ A web interface for interacting with the OpenAI API.
    ```
    pip install openai gradio
     ```
+
+
+
+
+1. Run the application:
+   ```
    python main.py
    ```
+
  Open your web browser and navigate to the local URL provided in the console (typically `http://127.0.0.1:7860`).
 
 3. In the settings panel:
