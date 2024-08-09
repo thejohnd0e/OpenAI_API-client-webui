@@ -1,8 +1,8 @@
-# Universal OpenAI Chat Client
+# Universal OpenAI API Client
 
 ## Overview
 
-The Universal OpenAI Chat Client is a versatile and user-friendly application that allows interaction with various AI models through OpenAI-compatible APIs. Built with Python using the Gradio library for the interface and the OpenAI library for API interactions, this client supports a wide range of language models and API endpoints.
+The Universal OpenAI API Client is a versatile and user-friendly application that allows interaction with various AI models through OpenAI-compatible APIs. Built with Python using the Gradio library for the interface and the OpenAI library for API interactions, this client supports a wide range of language models and API endpoints.
 
 ## Features
 
@@ -17,7 +17,7 @@ The Universal OpenAI Chat Client is a versatile and user-friendly application th
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/universal-openai-chat-client.git
+   git clone https://github.com/thejohnd0e/OpenAI_API-client-webui.git
    cd universal-openai-chat-client
    ```
 
