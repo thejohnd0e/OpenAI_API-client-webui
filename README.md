@@ -16,7 +16,7 @@ The Universal OpenAI Chat Client is a versatile and user-friendly application th
 
 A web interface for interacting with the OpenAI API.
 
-## Prerequisites
+## Requirements
 
 - Python 3.7 or higher
 - pip (Python package installer)
